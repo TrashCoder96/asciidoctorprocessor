@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmeter">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/apache/jmeter" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
